@@ -1,0 +1,1 @@
+A collection of Jupyter notebooks covering various machine learning concepts, algorithms, and implementations. This repository serves as a learning resource and reference for ML practitioners and enthusiasts.
